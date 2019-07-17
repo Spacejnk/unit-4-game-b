@@ -1,0 +1,70 @@
+body {
+    /* background-color: rgb(203, 197, 197); */
+    background-image: url("../images/dices.jpg");
+}
+#container {
+    padding-left: 30px; 
+}
+
+#crystals {
+    font-size: 50px;
+    color: rgb(108, 105, 105);
+    text-align: center;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: black;
+}
+
+div p {
+    padding-left: 15px;  
+}
+
+
+/* 
+#randNumber {
+    width: 170px;
+    height: 70px;
+    padding-top: 25px;
+    margin-left: 15px;
+    padding-left: 15px;
+    float: left;
+} */
+
+#scoreInfo {
+    width: 170px;
+    height: 20px;
+    padding-top: 10px;
+    margin-left: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+    
+}
+
+#scoreBoard {
+    width: 170px;
+    height: 40px;
+    padding-top: 15px;
+    margin-top: 5px;
+    margin-left: 15px;
+    padding-left: 15px;
+    font-size: 15px;
+    
+}
+
+#winLoss {
+    width: 140px;
+    height:70px;
+    padding-top: 25px;
+    margin-left: 15px;
+    padding-left: 15px;
+    float: left;
+}
+
+
+#crystal1, #crystal2, #ecrystal3, #crystal4{
+margin-left: ; 
+}
+
+#images {
+margin-top: 105px;
+}
